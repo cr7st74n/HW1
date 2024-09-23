@@ -1,0 +1,76 @@
+
+.it-table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.it-table caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
+
+.ai {
+    background-color: #A50044;
+    font-weight: bold;
+    color: white;
+}
+
+.cybersecurity {
+    background-color: #DB0030;
+    color: white;
+}
+
+.cloud-computing {
+    background-color: #FFED02;
+}
+
+.python {
+    background-color: #004D98;
+    color: white;
+}
+
+.data-analytics {
+    background-color: #EDBB00;
+}
+
+.network-admin {
+    background-color: #004D98;
+    color: white;
+}
+
+.devops {
+    background-color: #A50044;
+    color: white;
+}
+
+.software-eng {
+    background-color: #000000;
+    color: white;
+}
+
+.web-dev {
+    background-color: #004D98;
+    color: white;
+}
+
+.blockchain {
+    background-color: #A50044;
+    color: white;
+}
+
+.mobile-dev {
+    background-color: #FFED02;
+}
+
+.ai-ethics {
+    background-color: #000000;
+    color: white;
+}
+
+.machine-learning {
+    background-color: #DB0030;
+    color: white;
+}
